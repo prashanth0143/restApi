@@ -5,7 +5,7 @@ Project Overview:
     Project:
         Simple implementation which provide a restApi with endpoints for searching,creating and deleting “server” objects
     Technology Stack:
-       I used  Spring Boot as the technologies and dependencies are, such as Spring Web, Spring Data JPA, and the PostgreSQL database.
+       I used  Spring Boot as the technologies and dependencies are, such as Spring Web, Spring Data JPA, and the PostgreSQL database , Postman tool for client Request.
        
 Database Configuration:
 
