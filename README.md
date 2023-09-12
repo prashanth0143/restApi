@@ -32,6 +32,9 @@ API Endpoints:
               Description: This endpoint allows clients to create a new server record in the database.
               Example Request: pic 1
 
+              ![pic 1](https://github.com/prashanth0143/restApi/assets/139949296/be238ffc-c57c-4d98-9f6b-1462f6b7645c)
+
+
     
      2. Read (GET) Endpoints:
 
