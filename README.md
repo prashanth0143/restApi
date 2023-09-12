@@ -34,9 +34,6 @@ API Endpoints:
 
               ![pic 2](https://github.com/prashanth0143/restApi/assets/139949296/6dbdfb60-2d98-4446-a180-b97f0df1f724)
 
-
-
-    
      2. Read (GET) Endpoints:
 
                 Get All Servers Endpoint:
